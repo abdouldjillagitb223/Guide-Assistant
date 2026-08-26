@@ -1,0 +1,510 @@
+{
+  "url": "https://www.jokerscompany.com/",
+  "title": "Jokers' Company SAS - Quality or nothing",
+  "heading": "StratégiqueTechniquehumain",
+  "blocks": [
+    {
+      "type": "text",
+      "level": null,
+      "text": "Accueil"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "À Propos"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Nos Expertises"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Nos Services"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Jokers Hosting"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Contact"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Des experts au service de vos défis numériques"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Stratégique Technique humain"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Les idées changent le monde. Mais seulement quand elles sont réalisées."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Start-Up engagée pour la transformation digitale."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Jokers Company, start-up malienne innovante, conçoit, intègre et sécurise des solutions numériques robustes pour les entreprises de demain. \r\n                      De l’hébergement à la cybersécurité, en passant par les ERP, les infrastructures réseau et les services cloud, nous accompagnons les organisations dans tous leurs défis technologiques."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Notre Mission"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Jokers se définit comme un catalyseur de réussite pour les entreprises modernes. \r\n                         Historiquement tournés vers l’IT éducative et médicale, nous avons élargi notre champ d’action pour devenir les jokers de toute solution numérique : \r\n                         hébergement web, cybersécurité, ERP/CRM, réseau et plus encore. Notre mission est de permettre à chaque organisation, quelle que soit sa taille, de disposer \r\n                         d’une infrastructure fiable, de services digitaux adaptés et d’outils performants pour se développer. \r\n                         Cela inclut la réservation de noms de domaine, la création de sites professionnels, la mise en place d’e-mails, d’ERP Dolibarr (facturation, RH, CRM…), \r\n                         de serveurs sécurisés, et bien d'autres solutions.\r\n\t\t\t\t\t\t Nous offrons une approche complète, de l’audit au développement, du déploiement à la maintenance, avec une attention particulière à la sécurité. Des démonstrations gratuites, des essais prolongés, \r\n                         et un accompagnement sur mesure font partie de notre engagement pour aider chaque client à faire les bons choix."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Cybersécurité, Réseaux & Sécurité"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Développement d'application Web & Mobile"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Hébergement & Cloud"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Conseils & Infogérance"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "ERP/CRM - Gestion commerciale & Comptabilité"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Quels sont nos domaines d'expertises ?"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Systèmes, Réseaux & Sécurité"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Conception et gestion d'infrastructures, méthodes et organisation IT, Cybersécurité ..."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Développement d'application"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Conception, développement et gestion d'application et services informatique ..."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Télécoms & Téléphonie"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Déploiement infrastruction fibre optique, vSAT, DSLAM, IMS, BTS, VoIP ..."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "150"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Heureux Clients pro & particuliers"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "315"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Sites web & Applications hébergés"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1618"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "E-mails Pro"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2000"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Mails par jour"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Nos Expertises"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Gérer tout votre établissement avec un seul logiciel"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Une seule application vous permettra de gérer l'inscription de vos étudiants, génération des cartes étudiantes, \r\n                                        gestion des notes d'examens, suivi du parcours de l'étudiant jusqu'à l'obtention du diplôme par l'étudiant. \r\n                                        Développé par nos ingénieurs en Génie Logiciel entre le Mali, le Sénégal et La France pour vous permettre de vous demarquer des autres établissements."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Nous mettons à votre disposition une solutions complète de gestion de votre étalissements"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "En choisissant notre pack appélé \"Tout-En-Un\" vous beneficierez  : Un site web professionel, des adresses mails professionelles pour l'ensembles des personnels, \r\n                                        les professeurs et les étudiants. Un espace numérique de travail appélé ENT pour les étudiants et les professeurs; plus un module de gestion d'emploi du temps.\r\n                                        le pack contient également un module de candidature en ligne permettant à vos futur de postuler en ligne et vos étudaints auront la possibilité \r\n                                        de consulter grâce à leur adresse professionelles les offres de stages sur le site web de notre réseau"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Comment gérer vos personnels et patients par une seule plateforme numérique ?"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Notre pack eMédical vous offre des outils permettants de manager vos médecins, \r\n                                        vos infirmiers et patients par l'aide du dossier de suivi électronique. \r\n                                        Il permet égament la prise de rendez-vous en ligne."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "La santé autrement et simplement les jokers en ont la solution"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Contactez-nous dès aujourd'hui !!!"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Quelle infrastructure sysème et réseau voulez-vous pour votre entreprise ?"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "La croissance et les performances de votre entreprise sont intimement liées à la gestion et l’organisation de votre système informatique. \r\n                                           Il est indispensable d’optimiser votre infrastructure pour disposer d’un SI efficace. \r\n                                           L’administration système et réseau est la supervision et la maintenance de l’ensemble de votre parc informatique (serveurs, routeurs, firewalls etc...)."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Exprimez-nous vos besoins en logciels et nous vous presénterons un démo en un mois seulement !"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Notre équipe développement est à l’écoute de vos utilisateurs, impliqués dès la conception du logiciel, \r\n                                            permettant de rentrer dans le coeur de votre activité et d’avoir une meilleure compréhension de votre métier et donc de vos besoins."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Un spécialiste des sites E-commerce et des sites vitrines"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Vous voulez faire la promotion de votre entreprise ou des vos produits\r\n                                        et acquérir de nouveaux clients à travers un site web professionnnel ou un site de vente en ligne ? \r\n                                        Contactez-nous quelque soit votre budget nous trouverons un point d'entente.\r\n                                        En parténariat avec Orange-Mali, Nous concevons des sites E-commerces en intégrant le paiement \r\n                                        par Orange Money et beaucoup d'autres moyens de paiement en ligne"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Faites un tour sur nos sites web E-commerce en production"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Qu'attendez-vous pour sécuriser vos données ?"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "La sécurité informatique est un enjeu majeur pour les entreprises ainsi que pour l’ensemble des acteurs qui l’entourent. \r\n                                            A l’heure où le développement des organisations nécessite l’utilisation de nombreux services en ligne (cloud, dématérialisation, …) \r\n                                            et des interactions avec des environnements multiples, la donnée est plus que jamais l’actif le plus critique pour toute entreprise"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Que disent nos Clients"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Nous sommes à notre 3è contrat en 1 an avec Joker Company SAS et nous ne regrettons pas d'avoir mis notre confiance sur eux. \r\n                                Une équipe jeune et dynamique, tous nos produits logiciels ou matériels ont été livré à temps."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Jacob FOUFOMBE"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "MUNISMA"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Grâce aux solutions de Jokers's Company, Nos étudiants inscrits ont doublé par rapport à l'année dernière, le constat est immédiat. En plus leur logiciels de gestion de scolarité nous facilite tellement la vie.\r\n                                Nous les recommandons !!!"
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Moussa KEITA"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Université Privée IFMATIC"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Lorsque nous rencontrons des dysfonctionnements, nous pouvons toujours compter sur la réactivité et le professionnalisme de l'équipe techniques de Jokers's Company. ."
+    },
+    {
+      "type": "heading",
+      "level": 5,
+      "text": "Alice CISSE"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Hôpital du Mali"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Nos Services en bref"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Sites web professionnels"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Conception, déploiement et hébergement de sites professionels et responsibles dans un environnement sécurisé avec le design de votre choix."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Adresses mails Professionnelles"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Nous vous fournissons des adresses mails illimité sur votre domaine, Les mails arrivant dans vos boîtes mails sont filtrés et scanner pour nos anti-virus et firewalls."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Cyber Sécurité"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Mise en service et maintien d’équipements de sécurité, supervision, gestion d’attaques… \r\n                                IDS/IPS (Système de prévention et de detectiond'intrusion), firewalls et proxy"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Infrastructures reseaux"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Nos Jokers detiennent des certifications Cisco, Alcatel Juniper etc.. Nous conçevons, exploitons l'architecture sécurisée de vos réseaux informatique"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Intégration Systèmes"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Notre équipe Conseil et Intégration vous accompagne dans la mise en œuvre de vos projets en mode agile et industrialisé."
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Conseils & Support Client"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Un portail unique de gestion de ticket incident ou tout type de problème. Quelque soit l'incident, il est résolu en moins de 48h"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Nos Services en détails"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Les nouvelles technologies sont inséparables à l'éduction, face à cette évidence chaque établissement \r\n                                            d'enseignement doit nécessairement se doter d'un modèle oprationnel digital.\r\n                                             La solution clé à la des jokers pour l'enseignement englobe des besoins dans établissement éducatif.\r\n                                             Nos service vous de mieux gérer la vie scolaire d'un étudiant, de l'inscription jusqu'à l'obention\r\n                                             du diplôme. Démarquez-vous des autres établissement à l'aide nouvelles technologies de l'information."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "=> Gestion des notes => Gestion d'emplois => Modules de candidature en ligne (eCandidat) => Espace Numérique de Travail (ENT) => Site web professionnels => Adresses mails professionnelles"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Chaque établissement de santé peut avoir des besoins différents. \r\n                                               La première étape commence donc par une analyse conjointe des exigences afin de préconiser la meilleure solution.\r\n                                               C’est pour cela que nous proposons des solutions financières adaptées au cas par cas \r\n                                               qui permettent le déploiement de ces nouveaux services sans investissement de la part de l’établissement."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "=> Site web professionnels pour hôpital => Adresses mails professionnelles => Module de gestion des patients (dossier de suivi) => Module de gestion des medecins => Prise de rendez-vous en ligne"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Un problème non résolu est un problème mal expliqué, tel est la vison des jokers.\r\n                                               Expliquez-nous vos besoins en technologie, nous vous fournirons une solution répondant à vos attentes.\r\n                                               Nous avons des spécialistes sur tous les languages de programmation populaires et incontournables tels que Java, PHP, HTML, CSS, ...\r\n                                               Pour chaque demande nous vous fournissons un démo, dont vous pourrez tester sur plusiseurs semaines afin de répondre à vos attentes les plus précieuses."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "=> Dévolppement de sites web eCommerce, Sites vitrines ... => Développement d'application sur mésure => Développement en JAVA (J2E, Angular, jQuery ...) => Développement en PHP => Développment d'applications mobiles"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Choisir un prestataire pour l’infogérance de votre infrastructure informatique, \r\n                                            c’est s’assurer de sa bonne performance et de sa sécurité au quotidien pour votre activité.\r\n                                            Pouvoir vous reposer sur l'équipe JOKERS, spécialiste des besoins informatiques \r\n                                            des PME vous permettra de développer votre activité en toute sérénité : votre budget est maîtrisé et vos équipements sont optimisés !\r\n                                            Prenez contact avec nous pour vous souscrire à notre à l'un de nos Packs \"INFOGÉRANCE\"\r\n                                            En souscrivant à cette offre, vous bénéficiez des conseils de votre référent technique dédié pour mettre en place une vraie politique antivirus \r\n                                            et antispam adaptée à vos besoins pour sécuriser votre réseau; nous effectuons des sauvegardes automatique de vos données."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "=> Système de création et suivi de ticketing => Gestion, maintenance et supervion Parc Informatique => Gestion des incidents réseaux / correction de bug => Depannage de Serveurs, routeurs, switchs, firewalls, proxy => Opération sensibles (intervention sur le coeur réseau) => Gestion d'incidents d'infrastructure (AD, DNS, LDAP, RADIUS.) => Depannage téléphonie (VoIP, AutoCommutateur) => Depannage réseau fibre optique => environnement (HP, Cisco, Juniper, Alcatel, Huawei)"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "SI Educatif"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "SI Médical"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Development"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Infogérance"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Téléphone :"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Mobile ML : (+223) 72 36 79 80"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Adresse au Mali :"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Bamako/Mali"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Rue Nelson Mandela, Immeuble Nima Diaby"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Email :"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "infos@jokerscompany.com"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Entrer En Contact"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "© 2018-2026 Jokers Company SAS - Tous droits réservés."
+    }
+  ],
+  "raw_text": "Accueil\nÀ Propos\nNos Expertises\nNos Services\nJokers Hosting\nContact\nDes experts au service de vos défis numériques\nStratégique\nTechnique\nhumain\nLes idées changent le monde. Mais seulement quand elles sont réalisées.\nStart-Up\nengagée pour la transformation digitale.\nJokers Company, start-up malienne innovante, conçoit, intègre et sécurise des solutions numériques robustes pour les entreprises de demain. \r\n                      De l’hébergement à la cybersécurité, en passant par les ERP, les infrastructures réseau et les services cloud, nous accompagnons les organisations dans tous leurs défis technologiques.\nNotre\nMission\nJokers se définit comme un catalyseur de réussite pour les entreprises modernes. \r\n                         Historiquement tournés vers l’IT éducative et médicale, nous avons élargi notre champ d’action pour devenir les jokers de toute solution numérique : \r\n                         hébergement web, cybersécurité, ERP/CRM, réseau et plus encore. Notre mission est de permettre à chaque organisation, quelle que soit sa taille, de disposer \r\n                         d’une infrastructure fiable, de services digitaux adaptés et d’outils performants pour se développer. \r\n                         Cela inclut la réservation de noms de domaine, la création de sites professionnels, la mise en place d’e-mails, d’ERP Dolibarr (facturation, RH, CRM…), \r\n                         de serveurs sécurisés, et bien d'autres solutions.\r\n\t\t\t\t\t\t Nous offrons une approche complète, de l’audit au développement, du déploiement à la maintenance, avec une attention particulière à la sécurité. Des démonstrations gratuites, des essais prolongés, \r\n                         et un accompagnement sur mesure font partie de notre engagement pour aider chaque client à faire les bons choix.\nCybersécurité, Réseaux & Sécurité\nDéveloppement d'application Web & Mobile\nHébergement & Cloud\nConseils & Infogérance\nERP/CRM - Gestion commerciale & Comptabilité\nQuels sont nos domaines d'expertises ?\nSystèmes, Réseaux & Sécurité\nConception et gestion d'infrastructures, méthodes et organisation IT, Cybersécurité ...\nDéveloppement d'application\nConception, développement et gestion d'application et services informatique ...\nTélécoms & Téléphonie\nDéploiement infrastruction fibre optique, vSAT, DSLAM, IMS, BTS, VoIP ...\n150\nHeureux Clients pro & particuliers\n315\nSites web & Applications hébergés\n1618\nE-mails Pro\n2000\nMails par jour\nNos\nExpertises\nAfficher tout\nSI Educatif\nSI médical\nDéveloppement Web\nApplications sur mésures\nRéseaux & Systèmes\nGérer tout votre établissement avec un seul logiciel\nUne seule application vous permettra de gérer l'inscription de vos étudiants, génération des cartes étudiantes, \r\n                                        gestion des notes d'examens, suivi du parcours de l'étudiant jusqu'à l'obtention du diplôme par l'étudiant. \r\n                                        Développé par nos ingénieurs en Génie Logiciel entre le Mali, le Sénégal et La France pour vous permettre de vous demarquer des autres établissements.\nNous mettons à votre disposition une solutions complète de gestion de votre étalissements\nEn choisissant notre pack appélé \"Tout-En-Un\" vous beneficierez  : Un site web professionel, des adresses mails professionelles pour l'ensembles des personnels, \r\n                                        les professeurs et les étudiants. Un espace numérique de travail appélé ENT pour les étudiants et les professeurs; plus un module de gestion d'emploi du temps.\r\n                                        le pack contient également un module de candidature en ligne permettant à vos futur de postuler en ligne et vos étudaints auront la possibilité \r\n                                        de consulter grâce à leur adresse professionelles les offres de stages sur le site web de notre réseau\nComment gérer vos personnels et patients par une seule plateforme numérique ?\nNotre pack eMédical vous offre des outils permettants de manager vos médecins, \r\n                                        vos infirmiers et patients par l'aide du dossier de suivi électronique. \r\n                                        Il permet égament la prise de rendez-vous en ligne.\nLa santé autrement et simplement les jokers en ont la solution\nContactez-nous dès aujourd'hui !!!\nQuelle infrastructure sysème et réseau voulez-vous pour votre entreprise ?\nLa croissance et les performances de votre entreprise sont intimement liées à la gestion et l’organisation de votre système informatique. \r\n                                           Il est indispensable d’optimiser votre infrastructure pour disposer d’un SI efficace. \r\n                                           L’administration système et réseau est la supervision et la maintenance de l’ensemble de votre parc informatique (serveurs, routeurs, firewalls etc...).\nExprimez-nous vos besoins en logciels et nous vous presénterons un démo en un mois seulement !\nNotre équipe développement est à l’écoute de vos utilisateurs, impliqués dès la conception du logiciel, \r\n                                            permettant de rentrer dans le coeur de votre activité et d’avoir une meilleure compréhension de votre métier et donc de vos besoins.\nUn spécialiste des sites E-commerce et des sites vitrines\nVous voulez faire la promotion de votre entreprise ou des vos produits\r\n                                        et acquérir de nouveaux clients à travers un site web professionnnel ou un site de vente en ligne ? \r\n                                        Contactez-nous quelque soit votre budget nous trouverons un point d'entente.\r\n                                        En parténariat avec Orange-Mali, Nous concevons des sites E-commerces en intégrant le paiement \r\n                                        par Orange Money et beaucoup d'autres moyens de paiement en ligne\nFaites un tour sur nos sites web E-commerce en production\nwww.jokers-hosting.com\nQu'attendez-vous pour sécuriser vos données ?\nLa sécurité informatique est un enjeu majeur pour les entreprises ainsi que pour l’ensemble des acteurs qui l’entourent. \r\n                                            A l’heure où le développement des organisations nécessite l’utilisation de nombreux services en ligne (cloud, dématérialisation, …) \r\n                                            et des interactions avec des environnements multiples, la donnée est plus que jamais l’actif le plus critique pour toute entreprise\nQue disent nos\nClients\nNous sommes à notre 3è contrat en 1 an avec Joker Company SAS et nous ne regrettons pas d'avoir mis notre confiance sur eux. \r\n                                Une équipe jeune et dynamique, tous nos produits logiciels ou matériels ont été livré à temps.\nJacob FOUFOMBE\nMUNISMA\nGrâce aux solutions de Jokers's Company, Nos étudiants inscrits ont doublé par rapport à l'année dernière, le constat est immédiat. En plus leur logiciels de gestion de scolarité nous facilite tellement la vie.\r\n                                Nous les recommandons !!!\nMoussa KEITA\nUniversité Privée IFMATIC\nLorsque nous rencontrons des dysfonctionnements, nous pouvons toujours compter sur la réactivité et le professionnalisme de l'équipe techniques de Jokers's Company. .\nAlice CISSE\nHôpital du Mali\nNos\nServices en bref\nSites web professionnels\nConception, déploiement et hébergement de sites professionels et responsibles dans un environnement sécurisé avec le design de votre choix.\nAdresses mails Professionnelles\nNous vous fournissons des adresses mails illimité sur votre domaine, Les mails arrivant dans vos boîtes mails sont filtrés et scanner pour nos anti-virus et firewalls.\nCyber Sécurité\nMise en service et maintien d’équipements de sécurité, supervision, gestion d’attaques… \r\n                                IDS/IPS (Système de prévention et de detectiond'intrusion), firewalls et proxy\nInfrastructures reseaux\nNos Jokers detiennent des certifications Cisco, Alcatel Juniper etc.. Nous conçevons, exploitons l'architecture sécurisée de vos réseaux informatique\nIntégration Systèmes\nNotre équipe Conseil et Intégration vous accompagne dans la mise en œuvre de vos projets en mode agile et industrialisé.\nConseils & Support Client\nUn portail unique de gestion de ticket incident ou tout type de problème. Quelque soit l'incident, il est résolu en moins de 48h\nNos\nServices en détails\nLes nouvelles technologies sont inséparables à l'éduction, face à cette évidence chaque établissement \r\n                                            d'enseignement doit nécessairement se doter d'un modèle oprationnel digital.\r\n                                             La solution clé à la des jokers pour l'enseignement englobe des besoins dans établissement éducatif.\r\n                                             Nos service vous de mieux gérer la vie scolaire d'un étudiant, de l'inscription jusqu'à l'obention\r\n                                             du diplôme. Démarquez-vous des autres établissement à l'aide nouvelles technologies de l'information.\n=> Gestion des notes\n=> Gestion d'emplois\n=> Modules de candidature en ligne (eCandidat)\n=> Espace Numérique de Travail (ENT)\n=> Site web professionnels\n=> Adresses mails professionnelles\nChaque établissement de santé peut avoir des besoins différents. \r\n                                               La première étape commence donc par une analyse conjointe des exigences afin de préconiser la meilleure solution.\r\n                                               C’est pour cela que nous proposons des solutions financières adaptées au cas par cas \r\n                                               qui permettent le déploiement de ces nouveaux services sans investissement de la part de l’établissement.\n=> Site web professionnels pour hôpital\n=> Adresses mails professionnelles\n=> Module de gestion des patients (dossier de suivi)\n=> Module de gestion des medecins\n=> Prise de rendez-vous en ligne\nUn problème non résolu est un problème mal expliqué, tel est la vison des jokers.\r\n                                               Expliquez-nous vos besoins en technologie, nous vous fournirons une solution répondant à vos attentes.\r\n                                               Nous avons des spécialistes sur tous les languages de programmation populaires et incontournables tels que Java, PHP, HTML, CSS, ...\r\n                                               Pour chaque demande nous vous fournissons un démo, dont vous pourrez tester sur plusiseurs semaines afin de répondre à vos attentes les plus précieuses.\n=> Dévolppement de sites web eCommerce, Sites vitrines ...\n=> Développement d'application sur mésure\n=> Développement en JAVA (J2E, Angular, jQuery ...)\n=> Développement en PHP\n=> Développment d'applications mobiles\nChoisir un prestataire pour l’infogérance de votre infrastructure informatique, \r\n                                            c’est s’assurer de sa bonne performance et de sa sécurité au quotidien pour votre activité.\r\n                                            Pouvoir vous reposer sur l'équipe JOKERS, spécialiste des besoins informatiques \r\n                                            des PME vous permettra de développer votre activité en toute sérénité : votre budget est maîtrisé et vos équipements sont optimisés !\r\n                                            Prenez contact avec nous pour vous souscrire à notre à l'un de nos Packs \"INFOGÉRANCE\"\r\n                                            En souscrivant à cette offre, vous bénéficiez des conseils de votre référent technique dédié pour mettre en place une vraie politique antivirus \r\n                                            et antispam adaptée à vos besoins pour sécuriser votre réseau; nous effectuons des sauvegardes automatique de vos données.\n=> Système de création et suivi de ticketing\n=> Gestion, maintenance et supervion Parc Informatique\n=> Gestion des incidents réseaux / correction de bug\n=> Depannage de Serveurs, routeurs, switchs, firewalls, proxy\n=> Opération sensibles (intervention sur le coeur réseau)\n=> Gestion d'incidents d'infrastructure (AD, DNS, LDAP, RADIUS.)\n=> Depannage téléphonie (VoIP, AutoCommutateur)\n=> Depannage réseau fibre optique\n=> environnement (HP, Cisco, Juniper, Alcatel, Huawei)\nSI Educatif\nSI Médical\nDevelopment\nInfogérance\nTéléphone :\nMobile ML : (+223) 72 36 79 80\nAdresse au Mali :\nBamako/Mali\nRue Nelson Mandela, Immeuble Nima Diaby\nEmail :\ninfos@jokerscompany.com\nEntrer\nEn Contact\nVotre site web (laissez vide)\nCombien font 2 + 3 ? (anti-spam)\nENVOYER\n© 2018-2026 Jokers Company SAS - Tous droits réservés.",
+  "links": [
+    "./",
+    "#",
+    "#",
+    "#",
+    "#",
+    "https://jokers-hosting.com/",
+    "#",
+    "#",
+    "img/portfolio/1.jpg",
+    "img/portfolio/2.jpg",
+    "img/portfolio/3.jpg",
+    "img/portfolio/4.jpg",
+    "img/portfolio/5.jpg",
+    "https://jokers-hosting.com/index.php",
+    "img/portfolio/6.jpg",
+    "img/portfolio/7.jpg",
+    "https://www.facebook.com/CrewJokerss/",
+    "#",
+    "https://www.linkedin.com/company/jokers-s-company/"
+  ],
+  "clean_text": "Accueil\nÀ Propos\nNos Expertises\nNos Services\nJokers Hosting\nContact\nDes experts au service de vos défis numériques\nStratégique\nTechnique\nhumain\nLes idées changent le monde. Mais seulement quand elles sont réalisées.\nStart-Up\nengagée pour la transformation digitale.\nJokers Company, start-up malienne innovante, conçoit, intègre et sécurise des solutions numériques robustes pour les entreprises de demain.\nDe l’hébergement à la cybersécurité, en passant par les ERP, les infrastructures réseau et les services cloud, nous accompagnons les organisations dans tous leurs défis technologiques.\nNotre\nMission\nJokers se définit comme un catalyseur de réussite pour les entreprises modernes.\nHistoriquement tournés vers l’IT éducative et médicale, nous avons élargi notre champ d’action pour devenir les jokers de toute solution numérique :\nhébergement web, cybersécurité, ERP/CRM, réseau et plus encore. Notre mission est de permettre à chaque organisation, quelle que soit sa taille, de disposer\nd’une infrastructure fiable, de services digitaux adaptés et d’outils performants pour se développer.\nCela inclut la réservation de noms de domaine, la création de sites professionnels, la mise en place d’e-mails, d’ERP Dolibarr (facturation, RH, CRM…),\nde serveurs sécurisés, et bien d'autres solutions.\nNous offrons une approche complète, de l’audit au développement, du déploiement à la maintenance, avec une attention particulière à la sécurité. Des démonstrations gratuites, des essais prolongés,\net un accompagnement sur mesure font partie de notre engagement pour aider chaque client à faire les bons choix.\nCybersécurité, Réseaux & Sécurité\nDéveloppement d'application Web & Mobile\nHébergement & Cloud\nConseils & Infogérance\nERP/CRM - Gestion commerciale & Comptabilité\nQuels sont nos domaines d'expertises ?\nSystèmes, Réseaux & Sécurité\nConception et gestion d'infrastructures, méthodes et organisation IT, Cybersécurité ...\nDéveloppement d'application\nConception, développement et gestion d'application et services informatique ...\nTélécoms & Téléphonie\nDéploiement infrastruction fibre optique, vSAT, DSLAM, IMS, BTS, VoIP ...\n150\nHeureux Clients pro & particuliers\n315\nSites web & Applications hébergés\n1618\nE-mails Pro\n2000\nMails par jour\nNos\nExpertises\nAfficher tout\nSI Educatif\nSI médical\nDéveloppement Web\nApplications sur mésures\nRéseaux & Systèmes\nGérer tout votre établissement avec un seul logiciel\nUne seule application vous permettra de gérer l'inscription de vos étudiants, génération des cartes étudiantes,\ngestion des notes d'examens, suivi du parcours de l'étudiant jusqu'à l'obtention du diplôme par l'étudiant.\nDéveloppé par nos ingénieurs en Génie Logiciel entre le Mali, le Sénégal et La France pour vous permettre de vous demarquer des autres établissements.\nNous mettons à votre disposition une solutions complète de gestion de votre étalissements\nEn choisissant notre pack appélé \"Tout-En-Un\" vous beneficierez  : Un site web professionel, des adresses mails professionelles pour l'ensembles des personnels,\nles professeurs et les étudiants. Un espace numérique de travail appélé ENT pour les étudiants et les professeurs; plus un module de gestion d'emploi du temps.\nle pack contient également un module de candidature en ligne permettant à vos futur de postuler en ligne et vos étudaints auront la possibilité\nde consulter grâce à leur adresse professionelles les offres de stages sur le site web de notre réseau\nComment gérer vos personnels et patients par une seule plateforme numérique ?\nNotre pack eMédical vous offre des outils permettants de manager vos médecins,\nvos infirmiers et patients par l'aide du dossier de suivi électronique.\nIl permet égament la prise de rendez-vous en ligne.\nLa santé autrement et simplement les jokers en ont la solution\nContactez-nous dès aujourd'hui !!!\nQuelle infrastructure sysème et réseau voulez-vous pour votre entreprise ?\nLa croissance et les performances de votre entreprise sont intimement liées à la gestion et l’organisation de votre système informatique.\nIl est indispensable d’optimiser votre infrastructure pour disposer d’un SI efficace.\nL’administration système et réseau est la supervision et la maintenance de l’ensemble de votre parc informatique (serveurs, routeurs, firewalls etc...).\nExprimez-nous vos besoins en logciels et nous vous presénterons un démo en un mois seulement !\nNotre équipe développement est à l’écoute de vos utilisateurs, impliqués dès la conception du logiciel,\npermettant de rentrer dans le coeur de votre activité et d’avoir une meilleure compréhension de votre métier et donc de vos besoins.\nUn spécialiste des sites E-commerce et des sites vitrines\nVous voulez faire la promotion de votre entreprise ou des vos produits\net acquérir de nouveaux clients à travers un site web professionnnel ou un site de vente en ligne ?\nContactez-nous quelque soit votre budget nous trouverons un point d'entente.\nEn parténariat avec Orange-Mali, Nous concevons des sites E-commerces en intégrant le paiement\npar Orange Money et beaucoup d'autres moyens de paiement en ligne\nFaites un tour sur nos sites web E-commerce en production\nwww.jokers-hosting.com\nQu'attendez-vous pour sécuriser vos données ?\nLa sécurité informatique est un enjeu majeur pour les entreprises ainsi que pour l’ensemble des acteurs qui l’entourent.\nA l’heure où le développement des organisations nécessite l’utilisation de nombreux services en ligne (cloud, dématérialisation, …)\net des interactions avec des environnements multiples, la donnée est plus que jamais l’actif le plus critique pour toute entreprise\nQue disent nos\nClients\nNous sommes à notre 3è contrat en 1 an avec Joker Company SAS et nous ne regrettons pas d'avoir mis notre confiance sur eux.\nUne équipe jeune et dynamique, tous nos produits logiciels ou matériels ont été livré à temps.\nJacob FOUFOMBE\nMUNISMA\nGrâce aux solutions de Jokers's Company, Nos étudiants inscrits ont doublé par rapport à l'année dernière, le constat est immédiat. En plus leur logiciels de gestion de scolarité nous facilite tellement la vie.\nNous les recommandons !!!\nMoussa KEITA\nUniversité Privée IFMATIC\nLorsque nous rencontrons des dysfonctionnements, nous pouvons toujours compter sur la réactivité et le professionnalisme de l'équipe techniques de Jokers's Company. .\nAlice CISSE\nHôpital du Mali\nServices en bref\nSites web professionnels\nConception, déploiement et hébergement de sites professionels et responsibles dans un environnement sécurisé avec le design de votre choix.\nAdresses mails Professionnelles\nNous vous fournissons des adresses mails illimité sur votre domaine, Les mails arrivant dans vos boîtes mails sont filtrés et scanner pour nos anti-virus et firewalls.\nCyber Sécurité\nMise en service et maintien d’équipements de sécurité, supervision, gestion d’attaques…\nIDS/IPS (Système de prévention et de detectiond'intrusion), firewalls et proxy\nInfrastructures reseaux\nNos Jokers detiennent des certifications Cisco, Alcatel Juniper etc.. Nous conçevons, exploitons l'architecture sécurisée de vos réseaux informatique\nIntégration Systèmes\nNotre équipe Conseil et Intégration vous accompagne dans la mise en œuvre de vos projets en mode agile et industrialisé.\nConseils & Support Client\nUn portail unique de gestion de ticket incident ou tout type de problème. Quelque soit l'incident, il est résolu en moins de 48h\nServices en détails\nLes nouvelles technologies sont inséparables à l'éduction, face à cette évidence chaque établissement\nd'enseignement doit nécessairement se doter d'un modèle oprationnel digital.\nLa solution clé à la des jokers pour l'enseignement englobe des besoins dans établissement éducatif.\nNos service vous de mieux gérer la vie scolaire d'un étudiant, de l'inscription jusqu'à l'obention\ndu diplôme. Démarquez-vous des autres établissement à l'aide nouvelles technologies de l'information.\n=> Gestion des notes\n=> Gestion d'emplois\n=> Modules de candidature en ligne (eCandidat)\n=> Espace Numérique de Travail (ENT)\n=> Site web professionnels\n=> Adresses mails professionnelles\nChaque établissement de santé peut avoir des besoins différents.\nLa première étape commence donc par une analyse conjointe des exigences afin de préconiser la meilleure solution.\nC’est pour cela que nous proposons des solutions financières adaptées au cas par cas\nqui permettent le déploiement de ces nouveaux services sans investissement de la part de l’établissement.\n=> Site web professionnels pour hôpital\n=> Module de gestion des patients (dossier de suivi)\n=> Module de gestion des medecins\n=> Prise de rendez-vous en ligne\nUn problème non résolu est un problème mal expliqué, tel est la vison des jokers.\nExpliquez-nous vos besoins en technologie, nous vous fournirons une solution répondant à vos attentes.\nNous avons des spécialistes sur tous les languages de programmation populaires et incontournables tels que Java, PHP, HTML, CSS, ...\nPour chaque demande nous vous fournissons un démo, dont vous pourrez tester sur plusiseurs semaines afin de répondre à vos attentes les plus précieuses.\n=> Dévolppement de sites web eCommerce, Sites vitrines ...\n=> Développement d'application sur mésure\n=> Développement en JAVA (J2E, Angular, jQuery ...)\n=> Développement en PHP\n=> Développment d'applications mobiles\nChoisir un prestataire pour l’infogérance de votre infrastructure informatique,\nc’est s’assurer de sa bonne performance et de sa sécurité au quotidien pour votre activité.\nPouvoir vous reposer sur l'équipe JOKERS, spécialiste des besoins informatiques\ndes PME vous permettra de développer votre activité en toute sérénité : votre budget est maîtrisé et vos équipements sont optimisés !\nPrenez contact avec nous pour vous souscrire à notre à l'un de nos Packs \"INFOGÉRANCE\"\nEn souscrivant à cette offre, vous bénéficiez des conseils de votre référent technique dédié pour mettre en place une vraie politique antivirus\net antispam adaptée à vos besoins pour sécuriser votre réseau; nous effectuons des sauvegardes automatique de vos données.\n=> Système de création et suivi de ticketing\n=> Gestion, maintenance et supervion Parc Informatique\n=> Gestion des incidents réseaux / correction de bug\n=> Depannage de Serveurs, routeurs, switchs, firewalls, proxy\n=> Opération sensibles (intervention sur le coeur réseau)\n=> Gestion d'incidents d'infrastructure (AD, DNS, LDAP, RADIUS.)\n=> Depannage téléphonie (VoIP, AutoCommutateur)\n=> Depannage réseau fibre optique\n=> environnement (HP, Cisco, Juniper, Alcatel, Huawei)\nSI Médical\nDevelopment\nInfogérance\nTéléphone :\nMobile ML : (+223) 72 36 79 80\nAdresse au Mali :\nBamako/Mali\nRue Nelson Mandela, Immeuble Nima Diaby\nEmail :\ninfos@jokerscompany.com\nEntrer\nEn Contact\nVotre site web (laissez vide)\nCombien font 2 + 3 ? (anti-spam)\nENVOYER"
+}

@@ -1,0 +1,7 @@
+python-dotenv
+ollama
+requests
+beautifulsoup4
+ftfy
+hashlib
+chromadb
