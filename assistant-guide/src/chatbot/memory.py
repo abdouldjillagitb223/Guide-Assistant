@@ -10,12 +10,16 @@ class ConversationMemory:
         
     def add_user_message(self, content:str):
         self.history.append({"role":"user", "content":content})
-        self.__trim()
+        self._trim()
         
+    def add_assistant_message(self, content:str):
+        self.history.append({"role":"assistant", "content":content})
+        self._trim()
+    
     def _trim(self):
         """Garde seulement les derniers échanges (max_turns paires user/assistant)."""
         max_messages=self.max_turns*2
-        if len(self.history)>max_messages:
+        if len(self.history) > max_messages:
             self.history=self.history[-max_messages:]
     
     def get_recent_exchanges(self, n:int=3):

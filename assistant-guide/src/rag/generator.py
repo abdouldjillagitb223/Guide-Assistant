@@ -22,3 +22,22 @@ def generate_answer(messages:list[dict]):
     except Exception as e:
         logger.error(f"Échec de la génération:{e}")
         raise
+
+def generate_answer_stream(messages:list[dict]):
+    """ 
+    Génère la réponse en streaming: produit chaque fragment de texte au
+    fur et à ,esure qu'Ollama le génère, au lieu d'attendre la réponse complète.
+    """
+    try:
+        stream=user.chat(
+            model=OLLAMA_CHAT_MODEL,
+            messages=messages,
+            stream=True
+        )
+        for chunk in stream:
+            content=chunk["message"]["content"]
+            if content:
+                yield content
+    except Exception as e:
+        logger.error(f"Échec de la génération (stream):{e}")
+        raise

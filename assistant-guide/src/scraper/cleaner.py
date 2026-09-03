@@ -47,7 +47,7 @@ def normalize_whitespace(text:str):
 def clean_text(raw_text:str):
     """Pipeline complet de nettoyage appliqué au texte extrait d'une page."""
     text=fix_text(raw_text)
-    text=remove_noise_lines(raw_text)
+    text=remove_noise_lines(text)
     text=remove_duplicate_lines(text)
     text=normalize_whitespace(text)
     return text

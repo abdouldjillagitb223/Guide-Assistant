@@ -15,7 +15,7 @@ def is_internal_link(url:str, base_url:str):
     return urlparse(url).netloc in ("", urlparse(base_url).netloc)
 
 def fetch_page(url:str, timeout:int=10):
-    """Récupère le HTML d'une page.Retourne None en cqs d'échec"""
+    """Récupère le HTML d'une page.Retourne None en cas d'échec"""
     try:
         response=requests.get(url, headers=HEADERS, timeout=timeout)
         response.raise_for_status()
