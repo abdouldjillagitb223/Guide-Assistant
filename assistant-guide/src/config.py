@@ -5,15 +5,23 @@ load_dotenv()
 
 # Appelle d'Ollama
 OLLAMA_HOST=os.getenv("OLLAMA_HOST","http://localhost:11434")
-OLLAMA_CHAT_MODEL=os.getenv("OLLAMA_CHAT_MODEL","llama3.1:8b")
 OLLAMA_EMBED_MODEL=os.getenv("OLLAMA_EMBED_MODEL","qwen3-embedding:0.6b")
+
+# Appelle de Groq
+GROQ_API_KEY=os.getenv("GROQ_API_KEY")
+GROQ_CHAT_MODEL=os.getenv("GROQ_CHAT_MODEL", "openai/gpt-oss-120b")
 
 # Scraping
 SITE_BASE_URL=os.getenv("SITE_BASE_URL","https://www.jokerscompany.com")
 
 # Decoupages
-CHUNK_SIZE=int(os.getenv("CHUNK_SIZE",500))
-CHUNK_OVERLAP=int(os.getenv("CHUNK_OVERLAP",50))
+CHUNK_SIZE=int(
+    os.getenv("CHUNK_SIZE",500)
+)
+
+CHUNK_OVERLAP=int(
+    os.getenv("CHUNK_OVERLAP",50)
+)
 
 # ChromaDB
 CHROMA_PERSIST_DIR=os.getenv("CHROMA_PERSIST_DIR","data/vectorstore/chroma")

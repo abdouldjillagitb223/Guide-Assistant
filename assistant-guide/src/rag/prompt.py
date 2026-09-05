@@ -28,8 +28,7 @@ def build_prompt(query:str, context:str):
     en respectant le règles anti-hallucination du RAG.
     """
     
-    user_message=f"""Contexte disponible:
-    {context}
+    user_message=f"""Contexte disponible:{context}
     
     Question de l'utilisateur:{query}
     """

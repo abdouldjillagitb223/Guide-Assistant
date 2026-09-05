@@ -1,7 +1,6 @@
 from src.chatbot.memory import ConversationMemory
 from src.rag.retriever import retrieve_context, format_context
 from src.rag.prompt import build_prompt, build_rewrite_prompt
-from src.rag.generator import generate_answer
 from src.utils.logger import get_logger
 from src.rag.generator import generate_answer, generate_answer_stream
 
@@ -54,6 +53,7 @@ class ChatSession:
         context=format_context(chunks)
         
         messages=build_prompt(query, context)
+       
         # On injecte l'historique récent dans les messages pour la génération finale
         recent=self.memory.get_recent_exchanges(n=3)
         full_messages=[messages[0]] + recent + [messages[1]]
