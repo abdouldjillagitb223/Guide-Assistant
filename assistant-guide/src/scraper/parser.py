@@ -32,7 +32,7 @@ def parse_page(url:str, html:str):
                 
     links=[a["href"] for a in soup.find_all("a", href=True)]
     
-    return{
+    return {
         "url":url,
         "title":title,
         "heading":heading,

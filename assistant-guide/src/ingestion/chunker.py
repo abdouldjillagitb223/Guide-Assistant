@@ -52,7 +52,7 @@ def split_long_section(heading:str, texts:list[str], chunk_size:int, chunk_overl
         chunks.append(f"{heading}\n"+"\n".join(current))
     
     return chunks
-    
+
 def chunk_page(
     blocks:list[dict],
     chunk_size:int=CHUNK_SIZE,

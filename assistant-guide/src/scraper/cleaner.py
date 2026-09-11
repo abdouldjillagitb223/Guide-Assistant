@@ -23,10 +23,6 @@ def remove_noise_lines(text:str):
         cleaned.append(line.strip())
     return "\n".join(cleaned)
 
-# def fix_encoding(text:str):
-#     """Corrige le mojibake (double encodage) présent dans le contenu source."""
-#     return fix_text(text)
-
 def remove_duplicate_lines(text:str):
     """Supprime les lignes répétées consécutuivement (souvent des éléments de menu)."""
     lines=text.split("\n")

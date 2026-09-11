@@ -7,3 +7,4 @@ hashlib
 chromadb
 langgraph
 chainlit
+beautifulsoup4

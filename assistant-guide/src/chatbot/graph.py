@@ -77,8 +77,8 @@ chat_graph=build_graph()
 
 class GraphChatSession:
     """
-    Équivalent de ChatSession mais piloté par le graphe
-    LangGraph. Garde la même mémoire conversationnelle par session. 
+    Équivalent de ChatSession mais piloté par le graphe LangGraph. 
+    Garde la même mémoire conversationnelle par session. 
     """
     
     def __init__(self, top_k:int=TOP_K):
