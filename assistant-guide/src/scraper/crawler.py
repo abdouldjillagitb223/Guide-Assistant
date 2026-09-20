@@ -7,7 +7,7 @@ from src.config import SITE_BASE_URL
 logger=get_logger(__name__)
 
 HEADERS={
-    "User-":"JokersCompany-RAG-Bot/1.0 (+contact:abdoulaye.djilla@jokerscompany.com)"
+    "User-Agent":"JokersCompany-RAG-Bot/1.0 (+contact:abdoulaye.djilla@jokerscompany.com)"
 }
 
 def is_internal_link(url:str, base_url:str):
@@ -42,7 +42,8 @@ def discover_links(html:str, current_url:str, base_url:str):
         full_url=full_url.split("#")[0]
         if is_internal_link(full_url, base_url):
             links.add(full_url)
-        return links
+    
+    return links
 
 def crawl_site(start_url:str=SITE_BASE_URL, max_pages:int=50):
     """

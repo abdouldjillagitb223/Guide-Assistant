@@ -13,7 +13,14 @@ GROQ_CHAT_MODEL=os.getenv("GROQ_CHAT_MODEL", "openai/gpt-oss-120b")
 
 # Scraping
 SITE_BASE_URL=os.getenv("SITE_BASE_URL","https://www.jokerscompany.com")
-
+SITE_BASE_URLS=[
+    url.strip()
+    for url in os.getenv(
+        "SITE_BASE_URLS",
+        "https://www.jokerscompany.com, https://jokers-hosting.com"
+    ).split(",")
+    if url.strip()
+]
 # Decoupages
 CHUNK_SIZE=int(
     os.getenv("CHUNK_SIZE",500)

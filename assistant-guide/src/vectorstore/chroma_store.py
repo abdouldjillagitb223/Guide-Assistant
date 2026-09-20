@@ -13,6 +13,18 @@ def get_or_create_collection():
         metadata={"hnsw:space":"cosine"}
     )
     
+def reset_collection():
+    """
+    Supprime entièrement la collection existante (si présente) et en recrée une vide.
+    À utiliser pour un remplacement complet du vectorstore (ex:réingestion manuelle).
+    """
+    try:
+        _user.delete_collection(name=CHROMA_COLLECTION_NAME)
+        logger.info(f"Collection existante {CHROMA_COLLECTION_NAME} supprimée.")
+    except Exception:
+        logger.info(f"Aucune collection existante {CHROMA_COLLECTION_NAME} à supprimer.")
+        return get_or_create_collection()
+    
 def add_chunks_to_store(embedded_chunks:list[dict]):
     """ 
     Ajoute (ou met à jour, grâce aux chunk_id stables) les chunks vectorisés

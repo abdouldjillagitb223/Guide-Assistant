@@ -26,6 +26,6 @@ def format_context(chunks:list[dict]):
     blocks=[]
     for i, chunk in enumerate(chunks, start=1):
         heading=chunk["metadata"].get("section_heading", "")
-        blocks.append(f"[Source{i}-{heading}]\n{chunk["text"]}")
+        blocks.append(f"[Source{i}-{heading}]\n{chunk['text']}")
     
     return "\n\n".join(blocks)

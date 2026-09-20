@@ -3,7 +3,6 @@ ollama
 requests
 beautifulsoup4
 ftfy
-hashlib
 chromadb
 langgraph
 chainlit

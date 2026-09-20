@@ -1,0 +1,277 @@
+{
+  "url": "https://jokers-hosting.com/mon-compte/store/",
+  "title": "Votre panier - Jokers Company",
+  "heading": "Votre panier - Jokers Company",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Notifications"
+    },
+    {
+      "type": "heading",
+      "level": 6,
+      "text": "Connexion - Accès restreint"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Accueil Public Services Commander un Hébergement Web Hébergez votre site et/ou vos mails Commander un Serveur SSD Serveurs VPS ou serveur Dédié Domaines Enregistrer un domaine Réserver un nom de domaine Renouveler un domaine Renouvelez un ou plusieurs domaines Transferer un domaine Transferez un domaine Support Centre d'aides Interrogez notre base de connaissances... Actualités Consulter les dernières annonces Contactez Nous Maintenant Nous sommes prêts à répondre à vos questions Mentions Légales Jokers sécurise les informations fournies Le service du mois Nouveau Les dernières nouvelles sur nos services d'hébergement Support Premium Besoin d’un accompagnement personnalisé, Notre équipe est à votre écoute pour vous proposer une solution sur mesure. Contactez-Nous Connexion client"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Services Commander un Hébergement Web Hébergez votre site et/ou vos mails Commander un Serveur SSD Serveurs VPS ou serveur Dédié"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Hébergez votre site et/ou vos mails"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Serveurs VPS ou serveur Dédié"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Domaines Enregistrer un domaine Réserver un nom de domaine Renouveler un domaine Renouvelez un ou plusieurs domaines Transferer un domaine Transferez un domaine"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Réserver un nom de domaine"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Renouvelez un ou plusieurs domaines"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Transferez un domaine"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Support Centre d'aides Interrogez notre base de connaissances... Actualités Consulter les dernières annonces Contactez Nous Maintenant Nous sommes prêts à répondre à vos questions Mentions Légales Jokers sécurise les informations fournies Le service du mois Nouveau Les dernières nouvelles sur nos services d'hébergement Support Premium Besoin d’un accompagnement personnalisé, Notre équipe est à votre écoute pour vous proposer une solution sur mesure. Contactez-Nous"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Interrogez notre base de connaissances..."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Consulter les dernières annonces"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Nous sommes prêts à répondre à vos questions"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Jokers sécurise les informations fournies"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Les dernières nouvelles sur nos services d'hébergement"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Support Premium"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L'offre la clé en main qu'il vous faut"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Satisfait ou remboursé"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Catégories"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Actions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sélectionnez la devise"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Catégories"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Actions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sélectionnez la devise"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Mentions Légales"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Centre d'aides"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Actualités"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Contactez-Nous"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Passer un hébergement Web"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Passer un hébergement Mail"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Commander un serveur VPS"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Commander un serveur dédié"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Gérer vos domaines"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Enregistrer un domaine"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Renouveler un domaine"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Transferer un domaine"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Moyens de paiement"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Moyens de paiement"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Title"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Générer un mot de passe"
+    }
+  ],
+  "raw_text": "Jokers...\nPROMO\n30% de reduction sur toutes les formules\nParcourez les services\nNotifications\n0\nVous n'avez pas de notification\nConnexion\n- Accès restreint\nMot de passe oublié?\nou\nInscription\nRester connecté\nAccueil\nPublic\nServices\nCommander un Hébergement Web\nHébergez votre site et/ou vos mails\nCommander un Serveur\nSSD\nServeurs VPS ou serveur Dédié\nDomaines\nEnregistrer un domaine\nRéserver un nom de domaine\nRenouveler un domaine\nRenouvelez un ou plusieurs domaines\nTransferer un domaine\nTransferez un domaine\nSupport\nCentre d'aides\nInterrogez notre base de connaissances...\nActualités\nConsulter les dernières annonces\nContactez Nous\nMaintenant\nNous sommes prêts à répondre à vos questions\nMentions Légales\nJokers sécurise les informations fournies\nLe service du mois\nNouveau\nLes dernières nouvelles sur nos services d'hébergement\nSupport Premium\nBesoin d’un accompagnement personnalisé,\nNotre équipe\nest à votre écoute pour vous proposer une solution sur mesure.\nContactez-Nous\nConnexion client\nServices\nCommander un Hébergement Web\nCommander un VPS/Serveur\nDomaines\nEnregistrer un domaine\nSupport\nCentre d'aides\nActualités\nContactez Nous\nMentions Légales\nEspace Client\nL'offre la clé en main qu'il vous faut\nSatisfait ou remboursé\nCatégories\nHébergement Web\nHébergement Mail\nJokers VPS stockage 100% SSD\nJokers VPS Performance100% SSD\nJokers Serveurs Dédiés NVMe/SSD\nJokers Bare metal\nActions\nEnregistrer un nom de domaine\nTransférer un nom de domaine\nAfficher le panier\nSélectionnez la devise\nXOF\nEUR\nCatégories\nHébergement Web\nHébergement Mail\nJokers VPS stockage 100% SSD\nJokers VPS Performance100% SSD\nJokers Serveurs Dédiés NVMe/SSD\nJokers Bare metal\nActions\nEnregistrer un nom de domaine\nTransférer un nom de domaine\nAfficher le panier\n- Choisir une autre catégorie -\nSélectionnez la devise\n- Choisir une autre catégorie -\nSélectionnez la devise\nXOF\nEUR\nWeb Espace Perso\n24,000FCFA\nAnnuel\nCommander\n- 10 Go Espace Disque 100% SSD\n-\n1 Nom de domaine offert (.site, .top, .cam, .space)\n- 5 Sous Domaines\n- 3 Base de données\n- 10 adresses mails Pro\n- 1 Comptes FTP\n- Certificat SSL inclus\n- 50 Gb Bande Passante\n- 24/7 Support par mail\nPLUS POPULAIRES\nWeb Espace Pro\n36,000FCFA\nAnnuel\nCommander\n50 Go Espace Disque 100% SSD\n1 Nom de domaine offert (.site, .top, .cam, .space)\nSous Domaines illimité\n10 Base de données\n15 adresses mails Pro (2Go chacune)\n10 Comptes FTP\nCertificat SSL inclus\nBande Passante illimité\n24/7 Support par mail\nWeb Espace Premium\n60,000FCFA\nAnnuel\nCommander\n100 Go Espace Disque 100% SSD\n1 Nom de domaine offert (.site, .top, .cam, .space)\nSous Domaines illimité\nBase de données illimitée\nAdresses mails Pro (Jusqu'à 5Go chacune)\nComptes FTP illimitée\nCertificat SSL inclus\nBande Passante illimitée\n24/7 Support par Téléphone/mail\nJokers Hosting\nMentions Légales\nCentre d'aides\nActualités\nContactez-Nous\nServices\nPasser un hébergement Web\nPasser un hébergement Mail\nCommander un serveur VPS\nCommander un serveur dédié\nDomaines\nGérer vos domaines\nEnregistrer un domaine\nRenouveler un domaine\nTransferer un domaine\nNotre mission est de faciliter la vie des développeurs de sites web et leurs clients. Nous le faisons en offrant des services d'hébergement web faciles à utiliser, rapides et fiables.\nCopyright © 2026 Jokers Company. Tous droits réservés.\nMoyens de paiement\n×\nClose\nFermer\nTitle\nLoading...\n                Chargement en cours...\nLoading...\nClose\n                    Fermer\nSubmit\n                    Envoyer\nGénérer un mot de passe\nVeuillez entrer un nombre entre 8 et 64 pour la longueur du mot de passe\nLongueur du mot de passe\nMot de passe généré\nGénérer un nouveau mot de passe\nCopier\nFermer\nCopier dans le presse-papiers et insérer",
+  "links": [
+    "/mon-compte/cart.php?gid=1",
+    "#",
+    "/mon-compte/cart.php?a=view",
+    "#",
+    "https://jokers-hosting.com/mon-compte/pwreset.php",
+    "https://jokers-hosting.com/mon-compte/register.php",
+    "/mon-compte/clientarea.php",
+    "/mon-compte/clientarea.php",
+    "/mon-compte/clientarea.php?action=services",
+    "/mon-compte/store/",
+    "/mon-compte/cart.php?gid=3",
+    "/mon-compte/clientarea.php?action=domains",
+    "/mon-compte/cart.php?a=add&domain=register",
+    "/mon-compte/index.php?rp=/cart/domain/renew",
+    "/mon-compte/cart.php?a=add&domain=transfer",
+    "#",
+    "/mon-compte/knowledgebase",
+    "/mon-compte/announcements",
+    "/mon-compte/contact.php",
+    "/mon-compte/announcements/2/Mentions-Legales-.html",
+    "/antler/template/blog-details",
+    "/mon-compte/contact.php",
+    "/mon-compte/clientarea.php",
+    "/antler/template/",
+    "/mon-compte/clientarea.php?action=services",
+    "/mon-compte/store/",
+    "/mon-compte/cart.php?gid=3",
+    "/clientarea.php?action=domains",
+    "/mon-compte/cart.php?a=add&domain=register",
+    "#",
+    "/mon-compte/knowledgebase",
+    "/mon-compte/announcements",
+    "/mon-compte/contact.php",
+    "/mon-compte/announcements/2/Mentions-Legales-.html",
+    "login",
+    "/mon-compte/index.php?rp=/store/hebergement-web",
+    "/mon-compte/index.php?rp=/store/hebergement-mail-cwp",
+    "/mon-compte/index.php?rp=/store/vps-100-ssd-stockage",
+    "/mon-compte/index.php?rp=/store/joker-vps-performance-100-ssd",
+    "/mon-compte/index.php?rp=/store/jokers-serveurs-dedies-nvme-ssd",
+    "/mon-compte/index.php?rp=/store/jokers-bare-metal",
+    "/mon-compte/cart.php?a=add&domain=register",
+    "/mon-compte/cart.php?a=add&domain=transfer",
+    "/mon-compte/cart.php?a=view",
+    "/mon-compte/index.php?rp=/store/hebergement-web/web-espace-perso",
+    "/mon-compte/index.php?rp=/store/hebergement-web/web-espace-pro",
+    "/mon-compte/index.php?rp=/store/hebergement-web/web-espace-premium",
+    "/mon-compte/index.php?rp=/announcements/2/Mentions-Legales-.html",
+    "/mon-compte/index.php?rp=/knowledgebase",
+    "/mon-compte/index.php?rp=/announcements",
+    "/mon-compte/contact.php",
+    "/mon-compte/cart.php?gid=1",
+    "/mon-compte/cart.php?gid=4",
+    "/mon-compte/cart.php?gid=3",
+    "/mon-compte/index.php?rp=/store/jokers-serveurs-dedies-nvme-ssd",
+    "/mon-compte/clientarea.php?action=domains",
+    "/mon-compte/cart.php?a=add&domain=register",
+    "/mon-compte/index.php?rp=/cart/domain/renew",
+    "/mon-compte/cart.php?a=add&domain=transfer",
+    "https://www.facebook.com/CrewJokerss",
+    "https://www.linkedin.com/company/jokers-company/"
+  ],
+  "clean_text": "Jokers...\nPROMO\n30% de reduction sur toutes les formules\nParcourez les services\nNotifications\n0\nVous n'avez pas de notification\nConnexion\n- Accès restreint\nMot de passe oublié?\nou\nInscription\nRester connecté\nAccueil\nPublic\nServices\nCommander un Hébergement Web\nHébergez votre site et/ou vos mails\nCommander un Serveur\nSSD\nServeurs VPS ou serveur Dédié\nDomaines\nEnregistrer un domaine\nRéserver un nom de domaine\nRenouveler un domaine\nRenouvelez un ou plusieurs domaines\nTransferer un domaine\nTransferez un domaine\nSupport\nCentre d'aides\nInterrogez notre base de connaissances...\nActualités\nConsulter les dernières annonces\nContactez Nous\nMaintenant\nNous sommes prêts à répondre à vos questions\nJokers sécurise les informations fournies\nLe service du mois\nNouveau\nLes dernières nouvelles sur nos services d'hébergement\nSupport Premium\nBesoin d'un accompagnement personnalisé,\nNotre équipe\nest à votre écoute pour vous proposer une solution sur mesure.\nContactez-Nous\nConnexion client\nCommander un VPS/Serveur\nEspace Client\nL'offre la clé en main qu'il vous faut\nSatisfait ou remboursé\nCatégories\nHébergement Web\nHébergement Mail\nJokers VPS stockage 100% SSD\nJokers VPS Performance100% SSD\nJokers Serveurs Dédiés NVMe/SSD\nJokers Bare metal\nActions\nEnregistrer un nom de domaine\nTransférer un nom de domaine\nAfficher le panier\nSélectionnez la devise\nXOF\nEUR\n- Choisir une autre catégorie -\nWeb Espace Perso\n24,000FCFA\nAnnuel\nCommander\n- 10 Go Espace Disque 100% SSD\n-\n1 Nom de domaine offert (.site, .top, .cam, .space)\n- 5 Sous Domaines\n- 3 Base de données\n- 10 adresses mails Pro\n- 1 Comptes FTP\n- Certificat SSL inclus\n- 50 Gb Bande Passante\n- 24/7 Support par mail\nPLUS POPULAIRES\nWeb Espace Pro\n36,000FCFA\n50 Go Espace Disque 100% SSD\nSous Domaines illimité\n10 Base de données\n15 adresses mails Pro (2Go chacune)\n10 Comptes FTP\nCertificat SSL inclus\nBande Passante illimité\n24/7 Support par mail\nWeb Espace Premium\n60,000FCFA\n100 Go Espace Disque 100% SSD\nBase de données illimitée\nAdresses mails Pro (Jusqu'à 5Go chacune)\nComptes FTP illimitée\nBande Passante illimitée\n24/7 Support par Téléphone/mail\nJokers Hosting\nPasser un hébergement Web\nPasser un hébergement Mail\nCommander un serveur VPS\nCommander un serveur dédié\nGérer vos domaines\nNotre mission est de faciliter la vie des développeurs de sites web et leurs clients. Nous le faisons en offrant des services d'hébergement web faciles à utiliser, rapides et fiables.\nMoyens de paiement\n×\nClose\nFermer\nTitle\nLoading...\nChargement en cours...\nSubmit\nEnvoyer\nGénérer un mot de passe\nVeuillez entrer un nombre entre 8 et 64 pour la longueur du mot de passe\nLongueur du mot de passe\nMot de passe généré\nGénérer un nouveau mot de passe\nCopier\nCopier dans le presse-papiers et insérer"
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://jokers-hosting.com/mon-compte/login",
+  "title": "Connexion - Jokers Company",
+  "heading": "Connexion - Jokers Company",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Connexion à l'espace client"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Accès restreint"
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "est innacessible pour le moment. Merci d'essayer ultérieurement."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Erreur Nous n'avons pas été en mesure de connecter votre compte. Merci de contacter votre administrateur système."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Merci de finaliser la connexion en selectionnant un fournisseur d'accès."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Connexion automatique effectuée avec succès ! Redirection..."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Succès! Votre compte est maintenant lié avec votre compte :displayName."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Lien initié! La connexion est requise pour associer votre compte existant."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Lien initié! Merci de compléter le formulaire suivant."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Lien initié! Merci de compléter les informations de votre nouveau compte."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Erreur Ce compte est déjà connecté avec un compte existant chez nous. Veuillez choisir un compte différent auprès d'un fournisseur d'authentification tiers."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Erreur Ce compte est déjà connecté à votre compte chez nous. Veuillez choisir un compte différent auprès d'un fournisseur d'authentification tiers."
+    },
+    {
+      "type": "text",
+      "level": null,
+      "text": "Erreur Nous n'avons pas été en mesure de connecter votre compte. Merci de contacter votre administrateur système."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Générer un mot de passe"
+    }
+  ],
+  "raw_text": "Jokers...\nConnexion à l'espace client\nAccès restreint\nest innacessible pour le moment. Merci d'essayer ultérieurement.\nErreur\nNous n'avons pas été en mesure de connecter votre compte. Merci de contacter votre administrateur système.\nMerci de finaliser la connexion en selectionnant un fournisseur d'accès.\nConnexion automatique effectuée avec succès ! Redirection...\nSuccès!\nVotre compte est maintenant lié avec votre compte :displayName.\nLien initié!\nLa connexion est requise pour associer votre compte existant.\nLien initié!\nMerci de compléter le formulaire suivant.\nLien initié!\nMerci de compléter les informations de votre nouveau compte.\nErreur\nCe compte est déjà connecté avec un compte existant chez nous. Veuillez choisir un compte différent auprès d'un fournisseur d'authentification tiers.\nErreur\nCe compte est déjà connecté à votre compte chez nous. Veuillez choisir un compte différent auprès d'un fournisseur d'authentification tiers.\nErreur\nNous n'avons pas été en mesure de connecter votre compte. Merci de contacter votre administrateur système.\nConnexion avec Facebook\nOu\nConnexion\nMot de passe oublié?\nRester connecté\nGénérer un mot de passe\nVeuillez entrer un nombre entre 8 et 64 pour la longueur du mot de passe\nLongueur du mot de passe\nMot de passe généré\nGénérer un nouveau mot de passe\nCopier\nFermer\nCopier dans le presse-papiers et insérer",
+  "links": [
+    "https://jokers-hosting.com/",
+    "/mon-compte/register.php",
+    "/mon-compte/index.php?rp=/password/reset"
+  ],
+  "clean_text": "Jokers...\nConnexion à l'espace client\nAccès restreint\nest innacessible pour le moment. Merci d'essayer ultérieurement.\nErreur\nNous n'avons pas été en mesure de connecter votre compte. Merci de contacter votre administrateur système.\nMerci de finaliser la connexion en selectionnant un fournisseur d'accès.\nConnexion automatique effectuée avec succès ! Redirection...\nSuccès!\nVotre compte est maintenant lié avec votre compte :displayName.\nLien initié!\nLa connexion est requise pour associer votre compte existant.\nMerci de compléter le formulaire suivant.\nMerci de compléter les informations de votre nouveau compte.\nCe compte est déjà connecté avec un compte existant chez nous. Veuillez choisir un compte différent auprès d'un fournisseur d'authentification tiers.\nCe compte est déjà connecté à votre compte chez nous. Veuillez choisir un compte différent auprès d'un fournisseur d'authentification tiers.\nConnexion avec Facebook\nOu\nConnexion\nMot de passe oublié?\nRester connecté\nGénérer un mot de passe\nVeuillez entrer un nombre entre 8 et 64 pour la longueur du mot de passe\nLongueur du mot de passe\nMot de passe généré\nGénérer un nouveau mot de passe\nCopier\nFermer\nCopier dans le presse-papiers et insérer"
+}

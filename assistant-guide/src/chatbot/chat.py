@@ -42,6 +42,8 @@ class ChatSession:
             logger.info(f"Question refomulée: {query!r}->{rewritten!r}")
             return rewritten or query
         
+        return query
+        
     def ask(self, query:str):
         """ 
         Traite une question utilisateur de bout en bout:

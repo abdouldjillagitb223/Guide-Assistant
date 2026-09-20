@@ -224,7 +224,7 @@
 
                         try{
                             const headerData=JSON.parse(headerLine);
-                            localStorage.setItem(STORAGE_KEY, headerData, sessionId);
+                            localStorage.setItem(STORAGE_KEY, headerData.sessionId);
                         }
                         catch(e){
                             console.error("Impossible de lire l'en-tête de session", e);

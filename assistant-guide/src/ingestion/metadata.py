@@ -1,3 +1,4 @@
+from urllib.parse import urlparse
 import hashlib
 from datetime import datetime, timezone
 
@@ -23,7 +24,7 @@ def build_metadata(
         "section_heading":chunk["heading"],
         "chunk_index":chunk_index,
         "total_chunks":total_chunks,
-        "source":"jokerscompany.com",
+        "source":urlparse(page["url"]).netloc,
         "language":"fr",
         "ingested_at":datetime.now(timezone.utc).isoformat(),
     }

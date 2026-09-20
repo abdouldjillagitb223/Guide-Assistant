@@ -2,12 +2,12 @@ import json
 import os
 import sys
 
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from src.ingestion.chunker import chunk_page
 from src.ingestion.metadata import build_metadata
 from src.config import RAW_DATA_DIR, CHUNKS_FILE
 from src.utils.logger import get_logger
-
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 logger=get_logger(__name__)
 

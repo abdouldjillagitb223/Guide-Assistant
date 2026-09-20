@@ -1,0 +1,19 @@
+{
+  "url": "https://jokers-hosting.com/mon-compte/register.php",
+  "title": "Inscription - Jokers Company",
+  "heading": "Inscription - Jokers Company",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Générer un mot de passe"
+    }
+  ],
+  "raw_text": "Jokers...\nPour créer un compte, veuillez\nplacer une commande\nGénérer un mot de passe\nVeuillez entrer un nombre entre 8 et 64 pour la longueur du mot de passe\nLongueur du mot de passe\nMot de passe généré\nGénérer un nouveau mot de passe\nCopier\nFermer\nCopier dans le presse-papiers et insérer",
+  "links": [
+    "/mon-compte/index.php",
+    "/mon-compte/login.php",
+    "/mon-compte/cart.php"
+  ],
+  "clean_text": "Jokers...\nPour créer un compte, veuillez\nplacer une commande\nGénérer un mot de passe\nVeuillez entrer un nombre entre 8 et 64 pour la longueur du mot de passe\nLongueur du mot de passe\nMot de passe généré\nGénérer un nouveau mot de passe\nCopier\nFermer\nCopier dans le presse-papiers et insérer"
+}
